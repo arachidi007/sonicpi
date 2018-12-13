@@ -1,0 +1,8 @@
+use_bpm 70
+use_synth :piano
+play_pattern_timed [:c3, :e3, :g3, :c4], 0.5
+play_pattern_timed [:a2, :c3, :e3, :a3], 0.5
+play_pattern_timed [:c3, :e3, :g3, :c4], 0.5
+play_pattern_timed [:a2, :c3, :e3, :a3], 0.5
+play_pattern_timed [:f2, :a2, :c2, :f3], 0.5
+play_pattern_timed [:g3, :b3, :d3, :g6], 0.5
